@@ -33,6 +33,7 @@ flutter:
     - asset/photos/gifthampersandsweetbox/
     - asset/photos/snacks/
     - asset/fonts/
+    - asset/photos/backgrnd1.jpg
 
   fonts:
     - family: PlayfairDisplay
